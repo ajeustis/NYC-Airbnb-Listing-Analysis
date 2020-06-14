@@ -14,4 +14,4 @@ This section shows the linear regression models used on the overall dataset and 
 
 # Classification
 
-This section shows how I modified the data to make it suitable for a classification problem, and various classification models used as well as their performance. 
+This section shows how I modified the data to make it suitable for a classification problem, and the model used as well as performance metrics.
